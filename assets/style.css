@@ -1,0 +1,29 @@
+h1{
+    color:red;
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+.hs {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.tl {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+.start-div{
+    text-align: center;
+}
+
+.btn{
+    padding:20px;
+    background-color: blue;
+    color: white;
+}
